@@ -1,4 +1,4 @@
-# 迹忆（InnerTrace-jiyi--Diary）
+# 迹忆（InnerTrace-jiyi-Diary）
 
 ![Logo](docs/logo.png) <!-- 上传LOGO到仓库的docs目录 -->
 
