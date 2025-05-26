@@ -1,1 +1,1 @@
-include ':app', ':core', ':feature:diary', ':feature:template', ':feature:statistics', ':feature:recommendation'
+include ':app', ':core', ':feature:diary', ':feature:statistics'
