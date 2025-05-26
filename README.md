@@ -20,6 +20,7 @@
 - **图表**: MPAndroidChart
 
 ## 🚀 快速开始
+
 ```bash
 # 克隆项目
 git clone https://github.com/你的用户名/JiYi-Diary.git
@@ -30,13 +31,12 @@ git clone https://github.com/你的用户名/JiYi-Diary.git
 
 ## 📄 开源协议
 本项目采用 GPL-3.0。
+```
 
-
----
 
 #### **4. 制定贡献指南（CONTRIBUTING.md）**
 在仓库根目录创建 `CONTRIBUTING.md`，规范协作流程：
-```markdown
+
 # 贡献指南
 
 ## 开发流程
