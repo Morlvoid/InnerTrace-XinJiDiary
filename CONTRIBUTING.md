@@ -11,6 +11,7 @@
 5. 规划项目结构与开发路线
 目录结构示例：
 
+```markdown
 JiYi-Diary/
 ├── app/               # 主模块
 │   ├── src/main/
@@ -19,3 +20,4 @@ JiYi-Diary/
 ├── build.gradle      # 项目级配置
 ├── docs/             # 设计文档、原型图
 └── CONTRIBUTING.md
+```
