@@ -1,4 +1,4 @@
-# 迹忆（InnerTrace-jiyi-Diary）
+# 心迹日记（InnerTrace-XinJiDiary）
 
 ![Logo](docs/logo.png) <!-- 上传LOGO到仓库的docs目录 -->
 
@@ -23,7 +23,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/JiYi-Diary.git
+git clone https://github.com/你的用户名/XinJiDiary.git
 # 使用 Android Studio 打开项目
 ```
 
@@ -34,7 +34,7 @@ git clone https://github.com/你的用户名/JiYi-Diary.git
 本项目采用 GPL-3.0。
 
 ## ☕ 开发日志
-[从零开始的Android APP开发——迹忆（InnerTrace-jiyi-Diary）](https://www.morlvoid.pro/2025/05/26/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84Android-APP%E5%BC%80%E5%8F%91%E2%80%94%E2%80%94%E8%BF%B9%E5%BF%86%EF%BC%88InnerTrace-jiyi-Diary%EF%BC%89/)
+[从零开始的Android APP开发——心迹日记（InnerTrace-XinJiDiary）](https://www.morlvoid.pro/2025/05/26/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84Android-APP%E5%BC%80%E5%8F%91%E2%80%94%E2%80%94%E8%BF%B9%E5%BF%86%EF%BC%88InnerTrace-jiyi-Diary%EF%BC%89/)
 
 
 
